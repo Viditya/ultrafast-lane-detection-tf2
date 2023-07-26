@@ -1,0 +1,6 @@
+jupyter
+tensorflow
+opencv-python
+matplotlib
+scipy
+moviepy
